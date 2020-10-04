@@ -9,15 +9,26 @@ The written Python code, when exectued, provides the total number of votes, tota
 ## Election-Audit Results:
 
 * A total of 369,711 votes were cast in this election.  Below is the breakdown of total votes for each county along with the percentage contribution to the total:
+
+![Total_Votes](https://github.com/matthewdouglasmartin/Election_Analysis/blob/master/Resources/Total_Votes.png)
+
+![County_Votes](https://github.com/matthewdouglasmartin/Election_Analysis/blob/master/Resources/County_Votes.png)
+
   * Jefferson County had 38,855 votes, making up 10.5% of the total.
   * Denver County had 306,055 votes, making up 82.8% of the total votes.
   * Arapahoe County had 24,801 votes, making up 6.7% of the total votes.
 * Denver was the county with the highest voter turnout bringing in over 3/4 of all votes cast for this election.  
 * There were three candidates running in this election, below is each candidate's performance:
+
+![Candidate_Performance](https://github.com/matthewdouglasmartin/Election_Analysis/blob/master/Resources/Candidate_Performance.png)
+
   * Charles Casper Stockham received 85,213 votes which was 23% of the total.
   * Diana Degette received 272,892 votes which was 73.8% of the total.
   * Raymon Anthony Doanne received 11,606 votes which was only 3.1% of the total.
 * The winning candidate was Diana DeGette.
+
+![Winning_Candidate_Performance](https://github.com/matthewdouglasmartin/Election_Analysis/blob/master/Resources/Winning_Candidate_Performance.png)
+
   * She had 272,892 votes, 73.8% of all the votes cast.
   * Diana won by a landslide, the next closest candidate only brought in just over 85,000 votes.
 
